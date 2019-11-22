@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.gem
 *.rbc
 /.config
@@ -48,3 +49,17 @@ build-iPhoneSimulator/
 
 # unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
 .rvmrc
+=======
+.vagrant
+local_options.rb
+repos.tar
+repo-configs
+log
+id_rsa-acceptance
+id_rsa-acceptance.pub
+preserved_config.yaml
+merged_options.rb
+junit
+tmp
+.bundle
+>>>>>>> 724c77b... Add acceptance tests to new repo
