@@ -63,3 +63,8 @@ junit
 tmp
 .bundle
 >>>>>>> 724c77b... Add acceptance tests to new repo
+
+
+# Beaker
+/.beaker/
+
