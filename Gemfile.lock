@@ -54,7 +54,7 @@ GEM
     pry-byebug (3.7.0)
       byebug (~> 11.0)
       pry (~> 0.10)
-    rake (10.1.1)
+    rake (12.3.3)
     rb-readline (0.5.5)
     rsync (1.0.9)
     ruby-ll (2.1.2)
@@ -74,7 +74,7 @@ DEPENDENCIES
   beaker-vagrant (~> 0)
   beaker-vmpooler (~> 1)
   multi_json (~> 1.8)
-  rake (~> 10.1.0)
+  rake (~> 12.3.3)
 
 BUNDLED WITH
    1.16.6
